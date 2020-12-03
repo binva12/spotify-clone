@@ -213,6 +213,6 @@ h3 {
   transform: rotate(30deg) translate3d(0, 40px, 0);
 }
 
-.devices-container img {
+/* .devices-container img {
   max-width: 100%;
-}
+} */
